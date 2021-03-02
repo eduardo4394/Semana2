@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=DotGothic16&family=Lobster&family=Noto+Sans+JP:wght@100&family=Oi&display=swap');
+
+body{
+    background-color: grey;
+}
+
+h1 {
+    color: seagreen;
+}
+
+.rojo {
+    color: red;
+}
+
+.verde {
+    color: green;
+}
+
+.azul {
+    color: blue;
+}
+
+.morado {
+    color: purple;
+}
+
+.naranja { 
+    color: rgb(248, 142, 3);
+}
+
+h2 {
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+.akaya {
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+.gothic {
+    font-family: 'DotGothic16', sans-serif;
+}
+
+.noto {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.lobster {
+    font-family: 'Lobster', cursive;
+}
+
+.oi {
+    font-family: 'Oi', cursive;
+}
+
+.nombre {
+    font-size: 60px;
+    font-weight: bold;
+}
